@@ -8,7 +8,6 @@ class JenkinsRtDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
-		System.out.println("test");
 	}
 
 }
