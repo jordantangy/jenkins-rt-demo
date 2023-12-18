@@ -56,7 +56,7 @@
 		<repository>
 			<id>central</id>
 			<name>jordanta-jenkins-releases</name>
-			<url>http://172.16.9.29:8081/artifactory/maven-libs-release</url>
+			<url>http://172.16.9.29:8081/artifactory/maven-libs-release-local</url>
 		</repository>
 	</distributionManagement>
 
