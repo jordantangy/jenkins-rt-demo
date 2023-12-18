@@ -52,13 +52,6 @@
 		</dependency>
 	</dependencies>
 
-	<distributionManagement>
-		<snapshotRepository>
-			<id>snapshots</id>
-			<name>jordanta-jenkins-snapshots</name>
-			<url>http://172.16.9.29:8081/artifactory/maven-libs-snapshot-local</url>
-		</snapshotRepository>
-	</distributionManagement>
 
 	<build>
 		<plugins>
